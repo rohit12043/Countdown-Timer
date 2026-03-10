@@ -5,7 +5,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
     function getDiff(){
         let currentDate = new Date();
-        let dDay = new Date("January 1, 2026");
+        let dDay = new Date("January 1, 2027");
         console.log(currentDate);
         console.log(dDay);
     
